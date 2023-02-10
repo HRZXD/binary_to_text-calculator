@@ -1,1 +1,1 @@
-# binary_to_text-calculator
+# binary_to_text-converter
